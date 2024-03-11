@@ -1,4 +1,10 @@
 header {
     background-color: #820300;
     color: #FF9800;
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagem-cabecalho {
+    width: 90%;
 }
