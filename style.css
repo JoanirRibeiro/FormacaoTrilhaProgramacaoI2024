@@ -9,6 +9,6 @@ header {
 
 }
 
-.lista-cabecalho {
-    
+.cabecalho-lista-item {
+    display: inline-block;
 }
