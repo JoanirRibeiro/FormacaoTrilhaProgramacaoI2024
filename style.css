@@ -1,8 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 header {
     background-color: #820300;
     color: #FF9800;
     display: flex;
     justify-content: space-around;
+    padding: 16px 0;
 }
 
 .imagem-cabecalho {
