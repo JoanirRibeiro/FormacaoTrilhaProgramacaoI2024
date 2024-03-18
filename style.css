@@ -25,5 +25,8 @@
     color: #FF9800;
     background-image: linear-gradient(#820300,#e03f3d);
     display: flex;
-    
+}
+
+.escola-div-conteúdo {
+    width: 30%;
 }
