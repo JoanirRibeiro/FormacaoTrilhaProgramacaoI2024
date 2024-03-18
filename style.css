@@ -19,8 +19,9 @@
 
 .escola-imagem {
     width: 30%;
+}
+
+.escola {
     color: #FF9800;
-    background-image: linear-gradient(#820300,#);
-
-
+    background-image: linear-gradient(#820300,#e03f3d);
 }
