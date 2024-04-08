@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: sans-serif;
+    font-family: "Poppins" sans-serif;
 }
 
 .cabecalho {
@@ -42,3 +42,13 @@ body {
 .escola-titulo {
     padding: 24px,0;
 }
+
+.equipe-integrante1 {
+    width: 120px;
+}
+
+.equipe-integrante1-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
