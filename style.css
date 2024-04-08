@@ -52,7 +52,7 @@ body {
     padding: 4px 8px;
 }
 
-.equipe-div-conteúdo {
+.equipe-div-integrante1 {
     text-align: center;
     padding: 16px 0;
 }
@@ -60,4 +60,9 @@ body {
 .equipe-titulo {
     text-align: center;
     padding: 20px 0;
+}
+
+.equipe-todos {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
