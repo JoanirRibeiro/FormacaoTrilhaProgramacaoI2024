@@ -88,6 +88,7 @@ body {
 
 .rodapé-conteúdo {
     display: inline-block;
+    justify-content: center;
 }
 
 .rodapé-icone {
