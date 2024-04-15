@@ -89,6 +89,7 @@ body {
 .rodapé-conteúdo {
     display: flex;
     justify-content: space-around;
+    margin: 24px;
 }
 
 .rodapé-icone {
