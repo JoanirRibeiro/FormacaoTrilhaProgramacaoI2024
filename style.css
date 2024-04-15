@@ -87,6 +87,10 @@ body {
     height: 42px;
 }
 
+.rodapé-conteúdo {
+    display: inline-block;
+}
+
 .rodapé-icone {
     width: 28px;
 }
