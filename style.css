@@ -72,9 +72,10 @@ body {
 }
 
 .rodapé {
-    background-color: black;
+    background-color: white;
     color: #FF9800;
     display: flex;
+    
 }
 
 .rodapé-imagem-logo {
