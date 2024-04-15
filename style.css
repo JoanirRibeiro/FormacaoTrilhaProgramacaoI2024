@@ -70,3 +70,9 @@ body {
 .equipe {
     background-color: #6895D2;
 }
+
+.rodapé {
+    background-color: black;
+    color: #FF9800;
+    display: flex;
+}
