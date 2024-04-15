@@ -74,11 +74,13 @@ body {
 .rodapé {
     background-color: white;
     color: #FF9800;
+    font-size: 26px;
     display: flex;
     justify-content: space-around;
     padding: 26px 0;
     align-items: center;
 }
+
 
 .rodapé-imagem-logo {
     width: 36px;
