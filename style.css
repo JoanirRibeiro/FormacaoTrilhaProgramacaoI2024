@@ -90,6 +90,7 @@ body {
     display: flex;
     justify-content: space-around;
     margin: 24px;
+    align-items: center;
 }
 
 .rodapé-icone {
