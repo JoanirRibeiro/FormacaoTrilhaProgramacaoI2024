@@ -35,6 +35,7 @@ body {
     align-items: center;
 }
 
+
 .escola-div-conteúdo {
     width: 30%;
     padding: 24px,0;
@@ -42,6 +43,10 @@ body {
 
 .escola-titulo {
     padding: 24px,0;
+}
+
+.escola-texto1 {
+    padding: 24px;
 }
 
 .equipe-integrante1 {
