@@ -94,4 +94,5 @@ body {
 
 .rodapé-icone {
     width: 28px;
+    justify-content: space-around;
 }
