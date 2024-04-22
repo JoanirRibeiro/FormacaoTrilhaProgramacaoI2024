@@ -28,6 +28,7 @@ body {
 
 .escola {
     color: #FF9800;
+    font-size: 36px;
     background-image: linear-gradient(#820300,#e03f3d);
     display: flex;
     justify-content: center;
