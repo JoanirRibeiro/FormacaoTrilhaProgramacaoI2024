@@ -93,7 +93,7 @@ body {
 }
 
 .rodapé-icone {
-    width: 28px;
-    justify-content: space-around;
+    width: 30px;
     padding: 24px 24px;
+    align-items: center;
 }
